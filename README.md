@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there</h1>
-I am Shaurya Rathi. Full stack Developer, bot developer and game developer. I make discord bots, websites and games. I spend most of my time coding
+<img src="https://raw.githubusercontent.com/iron-coder12/iron-coder12/master/header.png">
+I am a full stack developer from Canada. I love coding and building apps, websites and discord bots. I love listening to music and playing tennis.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
