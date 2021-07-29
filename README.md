@@ -6,7 +6,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
 # Languages I code in:
 
 <img src="https://image.flaticon.com/icons/png/512/888/888859.png" height="80px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" height="80px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="80px" style="margin: 0 0 0 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="70px" style="margin: 0 0 0 10px">
 
 
 
