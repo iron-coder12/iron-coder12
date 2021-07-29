@@ -1,1 +1,1 @@
-<img src="banner.png">
+<img src="banner.png" height="10px">
