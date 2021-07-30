@@ -51,4 +51,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
   <a href="https://www.discord.com/users/557250223341174814">
     <img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="48px"> 
   </a>
+    <a href="#">
+        <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="48px">
+    </a>
 </p>
