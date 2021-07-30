@@ -5,7 +5,6 @@
 Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK DEVELOPER and I like to code and play tennis. My favourite colors is dark blue and cyan and I like Jokes 🤣
 
 <br>
-<br>
 
 # Languages and Frameworks I code in:
 
