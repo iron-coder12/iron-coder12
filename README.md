@@ -33,6 +33,6 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
 # Github Stats 📉
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iron-coder12&layout=compact)](https://github.com/iron-coder12)
 <a href="https://github.com/Code2Rithik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?usernameiron-coder12&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iron-coder12&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=algolia"/>
 </a>
 
