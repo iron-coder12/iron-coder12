@@ -43,7 +43,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
 
 # Contact Me
 
-<h3 align="center">Contact:</h3>
+<h3 align="center"></h3>
 <p align="center">
   <a href="https://discord.gg/R4mGz94ggE">
     <img src="discod.svg" width="48px">
