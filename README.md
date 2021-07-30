@@ -54,4 +54,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
     <a href="https://www.youtube.com/channel/UCDDLoTYgRmUgYVF4K6ka_Pg">
         <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="48px">
     </a>
+    <a href="#">
+    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="48px">
+    </a>
 </p>
