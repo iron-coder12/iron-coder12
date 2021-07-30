@@ -43,12 +43,12 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
 
 # Contact Me
 
+<h3 align="center">Contact:</h3>
 <p align="center">
-<strong> Join My Discord Server</strong>
- <br>
- <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="70px">
-    <br>
-    <strong>Subscribe Me on Youtube!</strong>
-    <br>
-    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" height="70px">
-  </p>
+  <a href="https://www.twitter.com/codistiano">
+    <img src="./svg/Twitter.svg" width="48px">
+  </a>
+  <a href="https://www.discord.com/users/557250223341174814">
+    <img src="./svg/Discord.svg" width="48px"> 
+  </a>
+</p>
