@@ -15,7 +15,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
     <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" height="70px">
     <img src="https://bhavya.dev/assets/icons/expressjs.png" height="70px">
     <img src="https://bhavya.dev/assets/icons/react.png" height="70px">
-    <inmg src="https://bhavya.dev/assets/icons/mongodb.svg" height="70px">
+    <img src="https://bhavya.dev/assets/icons/mongodb.svg" height="70px">
 </div>
 
 
