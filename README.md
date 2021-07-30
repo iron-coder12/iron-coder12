@@ -1,10 +1,4 @@
-<style type="text/css">
-.main-container {
-  max-width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
 <img src="banner.png">
 
 # Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
