@@ -26,3 +26,4 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
 
 
 # Github Stats 📉
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iron-coder12&layout=compact)](https://github.com/iron-coder12)
