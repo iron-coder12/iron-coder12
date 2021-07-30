@@ -20,6 +20,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
     <img src="https://bhavya.dev/assets/icons/sass.svg" height="70px">
     <img src="https://bhavya.dev/assets/icons/bash.svg" height="70px">
     <img src="https://bhavya.dev/assets/icons/ejs.svg" height="70px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" height="70px">
 </div>
 
 
