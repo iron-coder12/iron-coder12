@@ -25,7 +25,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" height="70px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="70px">
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" height="70px">
-    <img src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" height="70px">
+  <img src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png">
 </div>
 
 <br>
