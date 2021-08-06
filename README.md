@@ -30,6 +30,7 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" height="70px">
     <img src="https://github.com/iron-coder12/iron-coder12/blob/master/vue-282497.png?raw=true" height="70px">
     <img src="https://camo.githubusercontent.com/7c669e872b214571ae0b5097e8d3db369225a806dc2ce9a436cde3497164310c/687474703a2f2f6d6f6e676f64622d746f6f6c732e636f6d2f696d672f6d6f6e676f6f73652e706e67" height="70px">
+    <img src="https://camo.githubusercontent.com/5e192feb60e6fce267c34d9dd73f3f5064d6bbb391a34801ca8b42c927c0b20f/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830343530353436313037363133313834302f3833373139343633323134383238373530392f416f692e6a735f365f7665722e5f322e706e67" height="70px">
 </div>
 
 <br>
