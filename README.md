@@ -45,7 +45,8 @@ Hello, My name is Shaurya Rathi and my nickname is iron coder. I am a FULL STACK
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iron-coder12&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=algolia"/>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?iron-coder12=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iron-coder12)](https://github.com/iron-coder12/github-profile-trophy)
+
 
 
 # Contact Me
